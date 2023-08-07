@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Desenvolvimento Web na Trybe! 
+    Sou estudante de Desenvolvimento Web na Kenzie Academy! 
       />
     </a>  
   </p>
